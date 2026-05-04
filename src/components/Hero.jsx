@@ -55,7 +55,7 @@ export default function Hero() {
             <a href="#stack" className="secondary-link">
               Explore stack
             </a>
-            <a href="/CV-Khalid-2026.dotx" className="secondary-link" download>
+            <a href="/CV Khalid 2026 1.pdf" className="secondary-link" download>
               Download CV
             </a>
           </motion.div>
