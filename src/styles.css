@@ -527,6 +527,12 @@ a {
   }
 }
 
+@media (hover: none), (pointer: coarse) {
+  .cursor {
+    display: none;
+  }
+}
+
 @media (max-width: 640px) {
   .top-menu {
     top: 1.2rem;

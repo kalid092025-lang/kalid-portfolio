@@ -2,6 +2,14 @@ import { useEffect } from "react";
 
 export default function Cursor() {
   useEffect(() => {
+    const canUseCustomCursor = window.matchMedia(
+      "(hover: hover) and (pointer: fine)"
+    ).matches;
+
+    if (!canUseCustomCursor) {
+      return undefined;
+    }
+
     const cursor = document.createElement("div");
     cursor.className = "cursor";
     document.body.appendChild(cursor);
