@@ -14,7 +14,7 @@ export default function About() {
           <h2>Khalid Ismail</h2>
 
           <p>
-            I am an Oslo-based fullstack developer with a background in logistics,
+            I am an Oslo-based frontend developer with a background in logistics,
             interpreting, customer service, and hands-on technology. That mix has taught
             me to stay structured under pressure, communicate clearly, and solve problems
             with patience.
