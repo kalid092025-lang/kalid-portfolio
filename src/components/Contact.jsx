@@ -13,16 +13,17 @@ export default function Contact() {
 
         <div className="contact-copy">
           <p>
-            I&apos;m open to roles, freelance work, and collaborative teams building things
-            worth caring about.
+            I love teaming up on projects that blend thoughtful design with real-world
+            impact. Whether it’s a full-time role, freelance work, or a close-knit team,
+            I’m excited to help bring ideas to life.
           </p>
           <div className="contact-links">
-            <a className="primary-link" href="mailto:Khalid@example.com">
+            <a className="primary-link" href="mailto:Khalidelmi.95@gmail.com">
               Email me
             </a>
             <a
               className="secondary-link"
-              href="https://github.com/Khalid092025-lang"
+              href="https://github.com/Kalid092025-lang"
               target="_blank"
               rel="noreferrer"
             >
